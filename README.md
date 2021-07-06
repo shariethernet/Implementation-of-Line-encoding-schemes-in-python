@@ -6,16 +6,6 @@
 
 To implement the various line encoding schemes and to create a command line program and a GUI based web application for the same. 
 
-### SOFTWARE USED ### 
-
-- **Command line program** 
-- Python 3.2 
-- Visual Studio Code 
-- **Web Application** 
-- HTML 
-- CSS 
-- Javascript 
-
 ### THEORY ###  
 
 - Line coding is the process of converting digital data to digital signals.  
@@ -226,10 +216,6 @@ In this scheme there are three voltage levels positive, negative, and zero. The 
 Due to the size of the .js, .css and .html files, source code is available in  
 
 Shrihari.ml/lineencoding   ( Ctrl+Shift+I in Google Chrome) 
-
-**Result** 
-
-The various line encoding schemes and to create a command line program and a GUI based web application for the same 
 
 - Web application : [https://shrihari.ml/lineencoding](https://shriharig.tk/lineencoding)
 
