@@ -1,4 +1,4 @@
-# Implementation-of-Line-encoding-and-Error-Detection-Codes-in-Python
+# Implementation of Line encoding schemes in python
 
 ## LINE ENCODING SCHEMES ##
 
